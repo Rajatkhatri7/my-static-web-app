@@ -30,6 +30,30 @@ The apps written in the following JavaScript frameworks/libraries:
 - The [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions?WT.mc_id=swa_workshop-github-jopapa) installed
 - The [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=swa_workshop-github-jopapa) installed
 
+## How to run 
+
+ Clone your new repository
+
+   ```bash
+   git clone https://github.com/rajatkhatri7/my-static-web-app
+   cd my-static-web-app/react-app
+   ```
+
+1. Install the npm packages
+
+   ```bash
+   npm install
+   ```
+
+1. Run the app
+
+   ```bash
+   npm start
+   ```
+
+
+
+
 ## Problems or Suggestions
 
 [Open an issue here](https://github.com/johnpapa/shopathome/issues)
